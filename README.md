@@ -24,4 +24,4 @@ Analyze eCommerce data to understand customer behavior, retention, and revenue p
 
 ## 👤 Author
 
-Your Name
+Chinmoy Banerjee
